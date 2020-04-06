@@ -6,3 +6,9 @@
 addで指定したコンテンツをローカルリポジトリに反映させる。
 4.git push origin master
 リモートリポジトリにローカルリポジトリの内容を反映させる。
+
+5.git config --"global or local" alias.ci commit
+グローバルがgit全体
+6.:wq or :q!
+
+hello,world
